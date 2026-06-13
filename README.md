@@ -113,9 +113,6 @@
 <!-- ===================== SNAKE 貢獻蛇 ===================== -->
 ## 🐍 Contribution Snake · 貢獻蛇
 
-> 需先啟用下方 SETUP 的 GitHub Action,跑過一次後才會顯示。<br/>
-> Enable the GitHub Action in SETUP below; the snake appears after its first run.
-
 <div align="center">
 
 <picture>
