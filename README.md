@@ -29,18 +29,6 @@
 <!-- ===================== ABOUT 關於我 ===================== -->
 ## 🧑‍💻 About Me · 關於我
 
-```ts
-const gorman = {
-  alias:     "台服第一打工人 / Taiwan's No.1 Grinder",
-  company:   "TherapiAI Innovations",
-  location:  "Asia · UTC+8 🌏",
-  code:      ["TypeScript", "Python"],
-  focus:     ["AI Agents", "Automation Workflows", "Claude Code Plugins"],
-  hitProject:"agentic-sop-to-work (⭐172)",
-  motto:     "Always coding, always shipping.",
-};
-```
-
 - 🔭 目前在 **TherapiAI Innovations** 打造 AI agent 與自動化工作流<br/>&nbsp;&nbsp;&nbsp;&nbsp;Currently building **AI agents & automation workflows** at TherapiAI Innovations
 - 🌱 主力 **TypeScript** 與 **Python**,專注 LLM agent 與 Claude Code 外掛開發<br/>&nbsp;&nbsp;&nbsp;&nbsp;Focused on **TypeScript / Python**, LLM agents and Claude Code plugins
 - ⭐ 開源代表作 **[agentic-sop-to-work](https://github.com/s0912758806p/agentic-sop-to-work)**(172★)— 把人類 SOP 變成可控、有閘門的 agentic workflow<br/>&nbsp;&nbsp;&nbsp;&nbsp;My OSS hit — turning human SOPs into deterministic, gated agentic workflows
@@ -110,15 +98,6 @@ const gorman = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=s0912758806p&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&background=1a1b27" alt="streak stats" />
-
-</div>
-
-<!-- ===================== TROPHY 獎盃 ===================== -->
-## 🏆 Trophies · 成就獎盃
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=s0912758806p&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
