@@ -75,15 +75,6 @@
 <a href="https://github.com/s0912758806p/agentic-sop-to-work">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0912758806p&repo=agentic-sop-to-work&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="agentic-sop-to-work" />
 </a>
-<a href="https://github.com/s0912758806p/Grapevine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0912758806p&repo=Grapevine&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="Grapevine" />
-</a>
-<a href="https://github.com/s0912758806p/Trainstation-time-table-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0912758806p&repo=Trainstation-time-table-system&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="Trainstation-time-table-system" />
-</a>
-<a href="https://github.com/s0912758806p/Task-scheduler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0912758806p&repo=Task-scheduler&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="Task-scheduler" />
-</a>
 
 </div>
 
