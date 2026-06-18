@@ -10,7 +10,7 @@
 <!-- ===================== HEADER 頂部橫幅 ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Gorman%20Wu&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Agent%20Builder%20%7C%20Claude%20Code%20Plugin%20Author&descAlignY=60&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Gorman&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Agent%20Builder%20%7C%20Claude%20Code%20Plugin%20Author&descAlignY=60&descSize=18" alt="header banner" />
 
 <!-- 打字動畫 Typing animation -->
 <a href="https://github.com/s0912758806p">
