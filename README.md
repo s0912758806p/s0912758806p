@@ -106,21 +106,6 @@
 - 🔌 以 **Claude Code plugin** 形式發佈，內建可直接執行的 skills（如 `sop-flow`），開箱即用<br/>&nbsp;&nbsp;&nbsp;&nbsp;Ships as a **Claude Code plugin** with runnable skills (e.g. `sop-flow`) out of the box
 - 📈 **197★ · MIT · Python** — 我最具代表性的開源作品<br/>&nbsp;&nbsp;&nbsp;&nbsp;**197★ · MIT · Python** — my flagship open-source work
 
-<!-- ===================== STATS 統計 ===================== -->
-## 📊 GitHub Stats · 數據統計
-
-<div align="center">
-
-<!-- 改用 github-profile-summary-cards（github-readme-stats 官方實例已停用，回 503 DEPLOYMENT_PAUSED）；4 張去重成 3 張 -->
-<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0912758806p&theme=tokyonight" alt="github profile summary" />
-
-<br/>
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0912758806p&theme=tokyonight" alt="github stats numbers" />
-<img height="190" src="https://streak-stats.demolab.com?user=s0912758806p&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&background=1a1b27" alt="streak stats" />
-
-</div>
-
 <!-- ===================== SNAKE 貢獻蛇 ===================== -->
 ## 🐍 Contribution Snake · 貢獻蛇
 
